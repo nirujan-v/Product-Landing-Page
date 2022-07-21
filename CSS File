@@ -1,0 +1,58 @@
+<style>
+{}
+
+body {
+ display: flex;
+  
+} 
+
+@media (max-width: 300px){
+  h1 {
+    font-size: 15px
+  }
+  }
+
+h1 {
+  color: white;
+  font-family: sans-serif;
+  margin: 10px;
+  padding-top: 20px;
+}
+
+#nav-bar{
+  display:flex;
+  align-items: center;
+  flex-grow: .9;
+  justify-content: space-evenly;
+  
+  
+}
+header{
+  background-color: midnightblue;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+
+body{
+  display: flex;
+  background: black;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+a{
+  color: white;
+  font-size: 24px;
+  
+}
+
+p{
+  color:white;
+  font-size: 20px;
+}
+
+</style>
