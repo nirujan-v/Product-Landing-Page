@@ -1,0 +1,43 @@
+<header id = "header"> 
+   
+  <img id = "header-img" src ="https://yt3.ggpht.com/ytc/AKedOLQgw3p393tsGPtBSlxxgerfvAAAcxVKZbp_ZQTx2A=s900-c-k-c0x00ffffff-no-rj" width = 60px> 
+
+  <nav id = "nav-bar">
+    <a class = "nav-link" href="#features">Features</a>
+    
+        <a class = "nav-link" href="#demonstration">Demonstration</a>
+    
+        <a class = "nav-link" href="#pricing">Pricing</a>
+    
+    <nav>
+  
+</header>
+    
+<br>
+
+<body>
+<p> Enter your email for more information!</p>
+<form action = "https://www.freecodecamp.com/email-submit" id = "form"  >
+  <input id = "email" type="email" placeholder="Email" required></input>
+    <input id = "submit" type="submit">Submit</input>
+  
+    </form>
+    
+    <h1 id = "features"> Features <h1>
+      
+      <p> The new crunchyroll premium has all the features and upgrades you could ask for! </p>
+      <ul>
+        <li>Premium Streaming</li>
+        <li>HD Quality</li>
+        <li>Primetime simulcast 1hr after Japan release!</li>
+      </ul>
+      
+      <h1 id = "demonstration"> Watch this crunchyroll trailer if you are not yet convinced </h1>
+      
+       <iframe id = "video" width= 100% height="799" src="https://www.youtube.com/embed/sxxRIKvaBO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+</iframe> 
+      
+      
+      <h1 id = "pricing"> Prices for premium start at only 10.95$/mo</h1>
+    </body>
